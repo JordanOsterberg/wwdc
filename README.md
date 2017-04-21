@@ -15,4 +15,4 @@ This repository is a collection of my WWDC Scholarship submissions. Under no cir
 ## Submission Status
 | Year |   Status  | Images/Video |
 |------|-----------|--------------|
-| 2017 | Submitted |  Coming Soon |
+| 2017 | Rejected |  N/A |
