@@ -17,4 +17,4 @@ This repository is a collection of my WWDC Scholarship submissions. Under no cir
 | Year |   Status  | Images/Video |
 |------|-----------|--------------|
 | 2017 | Rejected |  N/A |
-| 2018 | Pending | N/A |
+| 2018 | Submitted | N/A |
