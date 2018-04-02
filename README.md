@@ -17,4 +17,4 @@ This repository is a collection of my WWDC Scholarship submissions. Under no cir
 | Year |   Status  | Images/Video |
 |------|-----------|--------------|
 | 2017 | Rejected |  N/A |
-| 2018 | Submitted | https://github.com/JordanOsterberg/wwdc |
+| 2018 | Submitted | https://www.youtube.com/watch?v=pt4cq_p6Img |
