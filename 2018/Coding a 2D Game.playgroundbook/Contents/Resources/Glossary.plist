@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Augmented Reality</key>
+		<dict>
+			<key>Definition</key>
+			<string>A technology that superimposes a computer-generated image on a user&apos;s view of the real world.</string>
+		</dict>
+		<key>Sprite</key>
+		<dict>
+			<key>Definition</key>
+			<string>A computer graphic that may be moved on-screen and otherwise manipulated as a single entity.</string>
+		</dict>
+		<key>SpriteKit Node</key>
+		<dict>
+			<key>Definition</key>
+			<string>A SpriteKit node is an object you can place in your SpriteKit scene. These can range from images to background music and encompass a wide variety of functionality.</string>
+		</dict>
+		<key>SpriteKit Scene</key>
+		<dict>
+			<key>Definition</key>
+			<string>A SpriteKit scene is an easy to use canvas that you can place &quot;nodes&quot; in, which can represent characters or objects in your game. A SpriteKit scene is essentially a level in a game.</string>
+		</dict>
+		<key>Variable</key>
+		<dict>
+			<key>Definition</key>
+			<string>Variables are values that can be changed and stored for later use. For example, if we have a variable called name, we can set it to some text: name = &quot;YourNameHere&quot;</string>
+		</dict>
+		<key>Function</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>2D%20Game/The%20Player</string>
+				<key>Title</key>
+				<string>The Player</string>
+			</dict>
+			<key>Definition</key>
+			<string>Functions are pieces of code used to perform actions on the screen. For example, if we have a function called addPlayer, we can type `addPlayer()` to run the code inside that function.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

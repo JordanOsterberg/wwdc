@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>2D Game</string>
+	<key>Pages</key>
+	<array>
+		<string>Introduction.cutscenepage</string>
+		<string>01 Welcome.playgroundpage</string>
+		<string>Functions.cutscenepage</string>
+		<string>02 Player.playgroundpage</string>
+		<string>03 Get Moving.playgroundpage</string>
+		<string>04 Jump Around.playgroundpage</string>
+		<string>Variables.cutscenepage</string>
+		<string>05 Get Fish Quick.playgroundpage</string>
+		<string>Booleans.cutscenepage</string>
+		<string>06 Checkpoint.playgroundpage</string>
+		<string>07 Mmmm... Catnip.playgroundpage</string>
+		<string>08 Sound Effects.playgroundpage</string>
+		<string>09 Background Music.playgroundpage</string>
+		<string>10 AR Map.playgroundpage</string>
+		<string>11 Recap.playgroundpage</string>
+	</array>
+</dict>
+</plist>

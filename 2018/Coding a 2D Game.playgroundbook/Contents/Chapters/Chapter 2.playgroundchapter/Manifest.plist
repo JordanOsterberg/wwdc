@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Fundamentals</string>
+	<key>Pages</key>
+	<array>
+		<string>Introduction.cutscenepage</string>
+		<string>01 SpriteKit.playgroundpage</string>
+		<string>02 SceneKit.playgroundpage</string>
+		<string>03 Our Game in 3D.playgroundpage</string>
+		<string>04 3D to AR.playgroundpage</string>
+	</array>
+</dict>
+</plist>

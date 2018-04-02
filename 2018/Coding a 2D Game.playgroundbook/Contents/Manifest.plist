@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chapters</key>
+	<array>
+		<string>Chapter 1.playgroundchapter</string>
+		<string>Chapter 2.playgroundchapter</string>
+	</array>
+	<key>ContentIdentifier</key>
+	<string>me.jordanosterberg.wwdc18</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>DeploymentTarget</key>
+	<string>ios11.0</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>Name</key>
+	<string>Coding a 2D Game</string>
+	<key>ImageReference</key>
+	<string>Icon.png</string>
+	<key>SwiftVersion</key>
+	<string>4.0</string>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>MinimumSwiftPlaygroundsVersion</key>
+	<string>2.0</string>
+</dict>
+</plist>
