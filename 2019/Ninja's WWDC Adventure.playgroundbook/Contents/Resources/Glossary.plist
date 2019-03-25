@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Boolean</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>ChapterOne/🐶%20Dog,%20run!</string>
+				<key>Title</key>
+				<string>🐶 Dog, run!</string>
+			</dict>
+			<key>Definition</key>
+			<string>Booleans are a type of variable that can be either `true` or `false`</string>
+		</dict>
+		<key>Variable</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>ChapterOne/🎧%20Let&apos;s%20Get%20Loud</string>
+				<key>Title</key>
+				<string>🎧 Let&apos;s Get Loud</string>
+			</dict>
+			<key>Definition</key>
+			<string>Variables store information of a certain type. To change the value of a variable, you type its name, an equal sign, and the new value. For example: `backgroundMusic = .funky`</string>
+		</dict>
+		<key>Function</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>ChapterOne/➡%20Right,%20Left,%20Right!</string>
+				<key>Title</key>
+				<string>➡ Right, Left, Right!</string>
+			</dict>
+			<key>Definition</key>
+			<string>Functions are little pieces of code that we can use at any time. To use a function, you type the name of the function followed by two parenthesis: `functionName()`</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

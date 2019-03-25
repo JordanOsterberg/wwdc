@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Text to make system happy</p>
+    </body>
+    
+    <script>
+        window.onkeyup = function(e) {
+            sendWebKitMessage(e.code);
+            
+            var key = checkKey(e.keyCode || e.which);
+            if (key == undefined) {
+                return;
+            }
+            
+            if (key == "left") {
+                sendWebKitMessage("leftKeyUp");
+            } else if (key == "right") {
+                sendWebKitMessage("rightKeyUp");
+            } else if (key == "space") {
+                sendWebKitMessage("spaceKeyUp");
+            }
+        }
+    
+        window.onkeydown = function(e) {
+            var key = checkKey(e.keyCode || e.which);
+            if (key == undefined) {
+                return;
+            }
+            
+            if (key == "left") {
+                sendWebKitMessage("leftKeyDown");
+            } else if (key == "right") {
+                sendWebKitMessage("rightKeyDown");
+            } else if (key == "space") {
+                sendWebKitMessage("spaceKeyDown");
+            }
+        }
+    
+        function checkKey(keyCode) {
+            if (keyCode == '37' || keyCode == '65') {
+                // Left arrow or A key
+                return "left";
+            } else if (keyCode == '39' || keyCode == '68') {
+                // Right arrow or D key
+                return "right";
+            } else if (keyCode == '32') {
+                // Space
+                return "space";
+            }
+            
+            return undefined;
+        }
+    
+        function sendWebKitMessage(message) {
+            window.webkit.messageHandlers.jsHandler.postMessage(message);
+        }
+    </script>
+</html>
