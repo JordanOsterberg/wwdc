@@ -19,4 +19,4 @@ This repository is a collection of my WWDC Scholarship submissions. Under no cir
 |------|-----------|--------------|
 | 2017 | Rejected |  N/A |
 | 2018 | Accepted | https://www.youtube.com/watch?v=pt4cq_p6Img |
-| 2019 | Pending  | https://www.youtube.com/watch?v=G4_Do_m50NQ |
+| 2019 | Rejected  | https://www.youtube.com/watch?v=G4_Do_m50NQ |
